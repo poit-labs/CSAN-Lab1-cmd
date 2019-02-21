@@ -1,0 +1,7 @@
+H:\Visual Studio\Labs\CSAN\CSAN-Lab1-cmd\CSAN-Lab1-cmd\bin\Debug\CSAN-Lab1-cmd.exe.config
+H:\Visual Studio\Labs\CSAN\CSAN-Lab1-cmd\CSAN-Lab1-cmd\bin\Debug\CSAN-Lab1-cmd.exe
+H:\Visual Studio\Labs\CSAN\CSAN-Lab1-cmd\CSAN-Lab1-cmd\bin\Debug\CSAN-Lab1-cmd.pdb
+H:\Visual Studio\Labs\CSAN\CSAN-Lab1-cmd\CSAN-Lab1-cmd\obj\Debug\CSAN-Lab1-cmd.csprojAssemblyReference.cache
+H:\Visual Studio\Labs\CSAN\CSAN-Lab1-cmd\CSAN-Lab1-cmd\obj\Debug\CSAN-Lab1-cmd.csproj.CoreCompileInputs.cache
+H:\Visual Studio\Labs\CSAN\CSAN-Lab1-cmd\CSAN-Lab1-cmd\obj\Debug\CSAN-Lab1-cmd.exe
+H:\Visual Studio\Labs\CSAN\CSAN-Lab1-cmd\CSAN-Lab1-cmd\obj\Debug\CSAN-Lab1-cmd.pdb
